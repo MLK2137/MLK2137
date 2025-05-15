@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://ngnw.pl/uploads/monthly_2025_05/c42fd111cf6b83fab7ff6043ec47ab18.jpg.1aea7089a92c88a7f0b04e3ae9c28453.jpg"  />
 
 ###
 
