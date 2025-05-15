@@ -44,10 +44,3 @@
 
 ###
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MLK2137/MLK2137/output/snake.svg" alt="Snake animation" />
-
-###
