@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://ngnw.pl/uploads/monthly_2025_05/c42fd111cf6b83fab7ff6043ec47ab18.jpg.1aea7089a92c88a7f0b04e3ae9c28453.jpg"  />
+<img align="right" height="150" src="https://i.imgur.com/T7xz9s8.jpeg"  />
 
 ###
 
@@ -45,7 +45,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://dc.ngnw.pl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
