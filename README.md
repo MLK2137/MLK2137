@@ -4,9 +4,6 @@
 
 <h2 align="left">Technologies / software I use</h2>
 
-<br clear="both">
-
-
 ###
 
 <img align="right" height="150" src="https://i.imgur.com/T7xz9s8.jpeg"  />
