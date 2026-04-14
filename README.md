@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋!<br></h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
+
+<h2 align="left">Technologies / software I use</h2>
 
 <br clear="both">
 
